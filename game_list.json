@@ -28,5 +28,10 @@
     "Name": "Rust",
     "AppID": "258550",
     "ExePath": "RustDedicated" 
-  }
+  },
+  {
+  "Name": "Euro Truck Simulator 2",
+  "AppID": "227300",
+  "ExePath": "ets2server.sh" 
+}
 ]
