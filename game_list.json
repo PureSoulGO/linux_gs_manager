@@ -2,11 +2,31 @@
   {
     "Name": "Palworld",
     "AppID": "2394010",
-    "ExePath": "PalServer.sh"
+    "ExePath": "Pal/Binaries/Linux/PalServer.sh"
   },
   {
     "Name": "Valheim",
     "AppID": "896660",
-    "ExePath": "valheim_server.sh"
+    "ExePath": "valheim_server.x86_64"
+  },
+  {
+    "Name": "Counter-Strike 2",
+    "AppID": "730",
+    "ExePath": "game/bin/linuxsteamrt64/cs2"
+  },
+  {
+    "Name": "ARK: Survival Evolved",
+    "AppID": "376030",
+    "ExePath": "ShooterGame/Binaries/Linux/ShooterGameServer"
+  },
+  {
+    "Name": "7 Days to Die",
+    "AppID": "294420",
+    "ExePath": "startserver.sh"
+  },
+  {
+    "Name": "Rust",
+    "AppID": "258550",
+    "ExePath": "RustDedicated" 
   }
 ]
